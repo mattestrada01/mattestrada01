@@ -8,7 +8,7 @@ I am a 3rd-year Software Engineering student with a passion for backend and vide
 
 * 🌍  I'm based in San Jose, CA
 * ✉️  You can contact me at [mathew.estrada@sjsu.edu](mailto:mathew.estrada@sjsu.edu)
-* 🧠  I'm learning This upcoming semester my courses are focused on operating systems, database management, and advanced software engineering tactics.
+* 🧠  This upcoming semester my courses are focused on operating systems, database management, and advanced software engineering tactics.
 * ⚡  I enjoy spending my free time participating in TNR programs to help stray cats get back to good health and find happy homes :)
 
 ### Skills
