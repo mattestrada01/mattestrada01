@@ -10,7 +10,7 @@ I am a 3rd-year Software Engineering student with a passion for backend and vide
 * 🖥️  Currently working on a desktop application that utilizes APIs to find popular restaurants
 * ✉️  You can contact me at [mathew.estrada@sjsu.edu](mailto:mathew.estrada@sjsu.edu)
 * 🧠  This upcoming semester my courses are focused on operating systems, database management, and advanced software engineering tactics.
-* 🚀  I love working with Java but currently mastering other languages :)
+* 🚀  I love working with Java :)
 * ⚡  I enjoy spending my free time participating in TNR programs to help stray cats get back to good health and find their forever homes 😸
 
 ### Skills
