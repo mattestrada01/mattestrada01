@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 San Jose State University
 -------------------------
 
-I am a 3rd-year Software Engineering student with a passion for backend and video game development. I'm always looking to improve and become a better engineer by learning new skills and languages.
+I am a 4th-year Software Engineering student with a passion for backend and video game development. I'm always looking to improve and become a better engineer by learning new skills and languages.
 
 * 🌍  I'm based in San Jose, CA
 * 🖥️  Currently working on a 2-dimensional horror game coded completely in Java and a desktop application that utilizes APIs to find popular restaurants! 
